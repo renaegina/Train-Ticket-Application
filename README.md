@@ -4,7 +4,7 @@
 
 MDN Railway Station merupakan aplikasi pemesanan tiket kereta api
 
-<p align="center"><img src="View.png" alt="Tampilan Aplikasi"></a></p>
+<p align="center"><img src="View.png" width="700px" alt="Tampilan Aplikasi"></a></p>
 
 ## Features
 
